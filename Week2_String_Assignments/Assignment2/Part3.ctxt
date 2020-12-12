@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Part3
+comment0.text=\n\ Coursera\ Course\:\ Java\ Programming\:\ Solving\ Problems\ with\ Software.\ \n\ Week\ 2\ \n\ Assignment\ 2\:\ Find\ all\ genes\ in\ DNA\ strand.\n\ Part\ 3\n\ \n\ @Zitao\ He\n\ @version\ 1\n
+comment1.params=dna\ startIndex\ stopCodon
+comment1.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+comment2.params=dna
+comment2.target=java.lang.String\ findGene(java.lang.String)
+comment3.params=dna
+comment3.target=void\ printAllGenes(java.lang.String)
+comment4.params=dna
+comment4.target=int\ countGenes(java.lang.String)
+comment5.params=
+comment5.target=void\ testCountGenes()
+numComments=6

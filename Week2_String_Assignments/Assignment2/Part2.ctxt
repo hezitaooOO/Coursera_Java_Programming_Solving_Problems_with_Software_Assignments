@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\n\ Coursera\ Course\:\ Java\ Programming\:\ Solving\ Problems\ with\ Software.\ \n\ Week\ 2\ \n\ Assignment\ 2\:\ Find\ all\ genes\ in\ DNA\ strand.\n\ Part\ 2\n\ \n\ @Zitao\ He\n\ @version\ 1\n
+comment1.params=stringa\ stringb
+comment1.target=int\ howMany(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testHowMany()
+numComments=3
